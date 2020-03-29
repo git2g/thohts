@@ -674,7 +674,7 @@
 
 			#slider, .carousel-inner
 			{
-				height: 180px;
+/*				height: 180px;*/
 				max-width: 450px;
 				margin: 0 auto;
 			}
